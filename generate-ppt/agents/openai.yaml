@@ -1,0 +1,4 @@
+interface:
+  display_name: "生成 PPT"
+  short_description: "把文档规划为有传播金句的图片化 PPT。"
+  default_prompt: "给我一个文档，我会先规划 PPT 页数、每页内容和金句节奏，确认后按你指定的风格用 Image 2 生成整页图片并组装成 PPT。"
